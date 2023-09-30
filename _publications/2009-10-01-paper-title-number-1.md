@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: ". Single- step fabrication of di-titanium nitride thin-film flexible and biocompatible supercapacitor."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: '. Single- step fabrication of di-titanium nitride thin-film flexible and biocompatible supercapacitor..'
+date: 2022-12-1
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sharma, S., Adalati, R., Sharma, M., Jindal, S., Kumar, A., Malik, G., & Chandra, R. (2022). Single-
+step fabrication of di-titanium nitride thin-film flexible and biocompatible supercapacitor.
+<i>Ceramics International</i>, 48(23), 34678-34687. (IF: 5.532)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Sharma, S., Adalati, R., Sharma, M., Jindal, S., Kumar, A., Malik, G., & Chandra, R. (2022). Single-
+step fabrication of di-titanium nitride thin-film flexible and biocompatible supercapacitor.
+<i>Ceramics International</i>, 48(23), 34678-34687. (IF: 5.532)
