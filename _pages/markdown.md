@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-Projects
-======
 ### Organization: IIT Roorkee
 #### Project: Fabrication of Metal Nitride Thin Film-based flexible and Biocompatible Supercapacitor
 #### Period: Apr’21 to Till Date
