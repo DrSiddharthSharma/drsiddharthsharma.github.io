@@ -65,6 +65,20 @@ Skills
 * Sputtering 
 * Research & Development 
 * Project Execution
+* Biomedical Instrumentation
+*  Medical Electronics
+*  Biomedical Technology
+*  Biomedical Devices
+*  Polymer Nanocomposites
+*  Gas Sensors
+*  Supercapacitors
+*  EDX
+*  Sputtering
+*  XPS
+*  Nanostructures
+*  Biosensing
+*  Thin Films
+*  Nanogenerators
 
 Publications
 ======
