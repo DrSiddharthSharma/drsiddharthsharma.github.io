@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Presentation at NIT Kurukshetra.
+![three.jpeg](..%2Fimages%2Fthree.jpeg)
