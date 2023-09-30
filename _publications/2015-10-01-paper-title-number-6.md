@@ -1,7 +1,7 @@
 ---
 title: "Catalyst-free grown carbonaceous MoS2 nanoworm electrodes for symmetrical supercapacitors."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-6
 excerpt: 'Catalyst-free grown carbonaceous MoS2 nanoworm electrodes for symmetrical supercapacitors.'
 date: 2022-19-15
 venue: 'Journal 1'

@@ -1,7 +1,7 @@
 ---
 title: "Metal nitride-based nanostructured sheet-electrodes alternately stacked in asymmetric configuration towards flexible supercapacito"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-5
 excerpt: 'Metal nitride-based nanostructured sheet-electrodes alternately stacked in asymmetric configuration towards flexible supercapacitor.'
 date: 2022-11-25
 venue: 'Journal 1'

@@ -1,7 +1,7 @@
 ---
 title: "Mn incorporated CeO2 lattice endorsement of electrochemical performance in symmetric supercapacitor."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-8
 excerpt: 'Mn incorporated CeO2 lattice endorsement of electrochemical performance in symmetric supercapacitor.'
 date: 2023-07-03
 venue: 'Journal 1'

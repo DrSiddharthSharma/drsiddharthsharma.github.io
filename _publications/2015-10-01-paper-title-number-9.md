@@ -1,7 +1,7 @@
 ---
 title: "Enhanced electrochemical corrosion resistance of SS-304 alloy with nano-pyramids c-TiN layer for saline media application."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-9
 excerpt: 'Enhanced electrochemical corrosion resistance of SS-304 alloy with nano-pyramids c-TiN layer for saline media application.'
 date: 2023-09-01
 venue: 'Journal 1'

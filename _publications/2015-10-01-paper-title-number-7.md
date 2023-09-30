@@ -1,7 +1,7 @@
 ---
 title: "Precursors controlled morphologies of nanocrystalline h-BN and its growth mechanism"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-7
 excerpt: 'Precursors controlled morphologies of nanocrystalline h-BN and its growth mechanism.'
 date: 2021-11-01
 venue: 'Journal 1'
