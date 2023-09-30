@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Conference At IIT-BHU
-![two.jpeg](..%2Fimages%2Ftwo.jpeg)
+![two.jpeg](../images/two.jpeg)

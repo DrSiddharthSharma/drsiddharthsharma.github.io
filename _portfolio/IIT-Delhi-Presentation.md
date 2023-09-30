@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 IIT Delhi Presentation
-![four.jpeg](..%2Fimages%2Ffour.jpeg)
+![four.jpeg](../images/four.jpeg)
