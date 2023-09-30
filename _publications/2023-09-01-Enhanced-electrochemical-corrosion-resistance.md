@@ -1,0 +1,11 @@
+---
+title: "Enhanced electrochemical corrosion resistance of SS-304 alloy with nano-pyramids c-TiN layer for saline media application."
+collection: publications
+permalink: /publication/2023-09-01-Enhanced-electrochemical-corrosion-resistance
+excerpt: 'The formation of corrosion products was discussed by using surface morphology analysis, while the electrochemical ion kinetic study was also presented to understand the anti-corrosion mechanism of c-TiN coating.'
+date: 2023-09-01
+venue: 'Journal of Alloys and Metallurgical Systems 3'
+citation: 'Malik G., Kumar A.; Adalati R., Sharma S., Chandra R. Enhanced electrochemical corrosion
+resistance of SS-304 alloy with nano-pyramids c-TiN layer for saline media application. <i>Journal of Alloys and Metallurgical Systems 3</i> (2023) 100028'
+---
+This work evaluates the impact of the cubical titanium nitride (c-TiN) coating on the corrosion characteristics of the 304 L stainless steel SS(304 L). A thick and crystalline c-TiN layer with a hierarchical nano-pyramid-like structure was prepared by a single-step sputtered method at RT on a mechanically polished SS(304 L) substrate. Most of the basic characterization techniques were employed to understand the growth mechanism of c-TiN coating. The corrosion characteristics of the prepared coating were executed in two distinct ways, Tafel and EIS plots, in terms of polarization resistance (Rp) under saline water ambient [3.5 % NaCl]. The obtained results reveal the superior corrosion resistance of coated substrate compared to the bare substrate after a long immersion (∼6 h) of the sample in saline water. The c-TiN coated sample offers low corrosion current density (Icorr) (19.8 µA/cm2) compared to the bare substrate (213 µA/cm2). Similarly, EIS and equivalent circuit results also indicate superior corrosion resistance of c-TiN-coated SS-304 L, resulting in a significantly low corrosion rate (CR) of ∼ 0.0213 µmpy. The formation of corrosion products was discussed by using surface morphology analysis, while the electrochemical ion kinetic study was also presented to understand the anti-corrosion mechanism of c-TiN coating.
