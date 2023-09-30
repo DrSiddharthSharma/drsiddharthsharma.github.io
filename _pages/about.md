@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm Siddharth Sharma.
-
 I am an innovative researcher specializing in nanobiotechnology's energy storage and generation domain. With a strong background in electronics and nanotechnology, I am passionate about applying these concepts to biomedical engineering to create groundbreaking solutions that revolutionize healthcare and sustainable energy systems.
 
-My research interests are energy generation and storage devices (nanogenerators and supercapacitors), biosensors, thin films, carbon nanotubes, graphene and polymer Nano-composites
+My research interests are energy generation and storage devices (nanogenerators and supercapacitors), biosensors, thin films, carbon nanotubes, graphene and polymer Nano-composites.
 
 | Date of Grant/ Published | Patents                                                                                                     |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
