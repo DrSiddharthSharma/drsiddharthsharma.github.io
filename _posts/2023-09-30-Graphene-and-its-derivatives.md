@@ -7,9 +7,6 @@ tags:
   - Bio-Sensor
   - Carbon-allotropes
 ---
-
-# Graphene and its derivatives for biosensing applications
-
 Graphene is a one atom thick layer of sp2 hybridized carbon atoms which are arranged in a honeycomb type lattice. It has unique physical, electrical, chemical, mechanical and optical properties including large surface area, exceptional electrical conductivity, very high mechanical strength, and unmatchable thermal conductivity. It is capable of absorbing a large number of bio molecules by π-π stacking bonding or electrostatic bonding, due to these properties, it is considered as one of the best materials for the fabrication of biosensors and for loading drugs. It is the parent of other important allotropes of carbon i.e. 0D fullerenes, 1D carbon nanotubes, and 3D graphite. Graphene and graphene based materials are making huge impact in many applications including graphene field effect transistors, sensors, catalysis, and bioscience /biotechnologies (bio imaging, gene delivery, cancer therapy, tissue engineering and drug delivery). On 5 October, 2010, Andre Geim and K. Novoselov received the Noble Prize in Physics for their remarkable work on graphenewhereingraphene was synthesized by mechanically exfoliating graphite. Since then, a number of methods have been discovered for the synthesis of graphene such as chemical exfoliation, chemical vapor deposition and epitaxial growth on Silicon carbide.Inspite of have a large number of applications, graphene has certain limitations i.e. limited solubility and difficulty in functionalization, due to which it has limited applications in the field of biomedical engineering. In order to overcome these limitations, the derivatives of graphene such as graphene oxide (GO), graphene quantum dots (GQD),etc have been considered to be more suitable.
 
 GO, a suspended form of graphite is synthesized by oxidizing graphite to graphite oxide
