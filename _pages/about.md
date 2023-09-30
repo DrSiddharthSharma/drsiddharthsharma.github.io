@@ -12,10 +12,19 @@ Welcome to my website! I'm Siddharth Sharma.
 
 I am an innovative researcher specializing in nanobiotechnology's energy storage and generation domain. With a strong background in electronics and nanotechnology, I am passionate about applying these concepts to biomedical engineering to create groundbreaking solutions that revolutionize healthcare and sustainable energy systems.
 
-| Date of Grant | Patents                                                                                                     |
-|---------------|-------------------------------------------------------------------------------------------------------------|
-| 22/05/2023    | ‘Biosensor for detecting cancer using exhaled breath.’ Indian Patent Office-Patent number ‘432433’.         |
-| 05/09/2020    | ‘In-situ Charging System for implantable pacemaker.’ Indian Patent Office-application number ‘202011038412’ |
+My research interests are energy generation and storage devices (nanogenerators and supercapacitors), biosensors, thin films, carbon nanotubes, graphene and polymer Nano-composites
+
+| Date of Grant/ Published | Patents                                                                                                     |
+|--------------------------|-------------------------------------------------------------------------------------------------------------|
+| 22/05/2023               | ‘Biosensor for detecting cancer using exhaled breath.’ Indian Patent Office-Patent number ‘432433’.         |
+| 05/09/2020               | ‘In-situ Charging System for implantable pacemaker.’ Indian Patent Office-application number ‘202011038412’ |
+
+
+| Innovations                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Biocompatible and Flexible supercapacitors for implantable and wearable electronic devices    Outcomes: 10 peer-reviewed papers in reputable scientific journals and presented research findings at international conferences |
+| In-situ charging system for implantable pacemakers    Outcomes: Prototype developed, patent filed at Indian patent office, this technology is licensed by Healagnostic Innovations Pvt Ltd.                                   |
+| Biosensor for the detection of breast, lung, and oral cancer through breath    Outcomes: Prototype developed, phase 1 clinical trials completed, patent granted, and this technology is licensed by TATA Steel, India.        |
 
 
 | Year       | Achievements                                                      |
@@ -26,17 +35,7 @@ I am an innovative researcher specializing in nanobiotechnology's energy storage
 | 2014- 2016 | Grant of Post Graduate Scholarship, Govt. of India                |
 
 
-My research interests are energy generation and storage devices (nanogenerators and supercapacitors), biosensors, thin films, carbon nanotubes, graphene and polymer Nano-composites
-
-### Innovations
-1. Biocompatible and Flexible supercapacitors for implantable and wearable electronic devices
-   Outcomes: 8 peer reviewed authored/co-authored peer reviewed journals
-2. In-situ charging system for implantable pacemakers
-   Outcomes: Prototype developed, patent filed at Indian patent office
-3. Biosensor for the detection of breast, lung, and oral cancer through breath
-   Outcomes: Prototype developed, phase 1 clinical trials completed, patent granted
-
-### I  have formed a start-up Healagnostic Innovations Pvt Ltd (HIPL), in 2019.
+### Co-Founded a start-up Healagnostic Innovations Pvt Ltd (HIPL), incubated at TIDS, IIT Roorkee in 2019.
 Our innovation, 'Biosensor for detection of breast, lung, and oral cancer using exhaled breath,'
 received the best innovation award in 2020 by the Confederation of Indian Industries
 This technology was highlighted in different print and electronic media Formulized hand sanitizer with
