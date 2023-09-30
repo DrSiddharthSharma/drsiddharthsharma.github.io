@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Since July’19: Heal Agnostic Innovations Pvt. Ltd., 
-  * Co-Founder and Director (A startup
-    incubated at TIDES IIT Roorkee)
-    Highlights:
+###  Since July’19: Heal Agnostic Innovations Pvt. Ltd., 
+  #### Co-Founder and Director (A startup incubated at TIDES IIT Roorkee)
+  * Highlights:
     * Received a SEED funding of INR 2 Lakhs from the Department of Biotechnology, Government
     of India
     * Funding of INR 10 Lakhs through TIDES 2.0
@@ -32,10 +31,10 @@ Work experience
     * Evaluating project proposals for government funding, product manuals, project reports,
     journal papers and delivering presentations at in-house meetings as well as at external
     workshops/seminars
-    * Facilitating seamless technology transfer in coordination with internal departments like Dean
-    of innovations, Regulatory Affairs, Assurance, Project Management and Engineering
-* Aug’16 to Oct’17: India Medtronic Pvt. Ltd.
-  * Associate Technical Service Specialist 
+* Facilitating seamless technology transfer in coordination with internal departments like Dean
+of innovations, Regulatory Affairs, Assurance, Project Management and Engineering
+### Aug’16 to Oct’17: India Medtronic Pvt. Ltd.
+  #### Associate Technical Service Specialist 
   * Role:
     * Key Responsibility included Learn Cardiac Rhythm Management Therapies and provide
     technical assistance to implanters during therapy delivery. Ensure customer satisfaction with
