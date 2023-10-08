@@ -16,3 +16,5 @@ test though it is not yet final
 “This should ideally be an over-the-counter test,” says
 Siddharth Sharma, PhD scholar, Centre of
 Nanotechnology, IITR, and a co-inventor
+
+<a href="https://www.icgeb.org/wp-content/uploads/2022/01/Shaastra-Nanda.pdf" style="box-shadow: inset 0 0 0 0 #54b3d6; color: #54b3d6; margin: 0 -.25rem; padding: 0 .25rem; transition: color .3s ease-in-out, box-shadow .3s ease-in-out; text-decoration: none;">Publisher Site</a>
